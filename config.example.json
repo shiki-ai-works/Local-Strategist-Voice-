@@ -1,0 +1,20 @@
+{
+  "llm": {
+    "base_url": "http://localhost:1234/v1",
+    "model": "local-model",
+    "temperature": 0.7,
+    "max_tokens": 800
+  },
+  "speech": {
+    "base_url": "http://localhost:10101",
+    "speaker": 888753760,
+    "speed_scale": 1.0,
+    "pitch_scale": 0.0,
+    "intonation_scale": 1.0,
+    "volume_scale": 1.0
+  },
+  "app": {
+    "log_dir": "logs",
+    "persona_file": "persona.md"
+  }
+}
