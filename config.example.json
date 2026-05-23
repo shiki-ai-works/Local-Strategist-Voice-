@@ -7,7 +7,7 @@
   },
   "speech": {
     "base_url": "http://localhost:10101",
-    "speaker": 888753760,
+    "speaker": 0,
     "speed_scale": 1.0,
     "pitch_scale": 0.0,
     "intonation_scale": 1.0,
